@@ -10,6 +10,7 @@
 
 ### 打包结果
 <img src="Build.png" width = 100%>
+<img src="Build1.png" width = 60%>
 
 ### 安卓手机测试
 <img src="AndroidTest.gif" width = 60%>
